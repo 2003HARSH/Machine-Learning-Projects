@@ -1,4 +1,4 @@
-# Tasks completed during my Data Science Internship at Encryptix
+# Machine Learning Projects
 
 ⛴️ Task 1: `Titanic Survival Prediction`
 
